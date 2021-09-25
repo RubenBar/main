@@ -65,6 +65,15 @@ defaults:
       author: "C.S. Rhymes"
       layout: post
       image: https://via.placeholder.com/1200x800
+      show_sidebar: true      
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Ruben Barcelo Armada"
+      layout: post
+      hero_image: /img/intro-bg.jpg
       show_sidebar: true
 
 markdown: kramdown

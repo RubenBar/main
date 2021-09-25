@@ -3,7 +3,7 @@ title: Bulma Clean Theme
 subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 callouts: home_callouts
-hero_image: /img/intro-bg.jpg 
+hero_image: img/intro-bg.jpg
 show_sidebar: true
 ---
 

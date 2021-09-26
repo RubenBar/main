@@ -19,3 +19,17 @@ hero_height: is-fullheight
 			<p>He is currently studying a Master’s Degree in Cybersecurity. </p>
 	</div>
 </div>
+
+
+<div class="columns is-multiline is-mobile is-centered">
+    <a href="https://www.linkedin.com/in/rubenbarar/" class="button is-normal is-linkedin is-outlined">
+        <span class="icon">
+          <i class="fab fa-linkedin fa-lg"></i>
+        </span>
+    </a>
+    <a href="https://github.com/RubenBar" class="button is-normal is-github is-outlined">
+        <span class="icon">
+          <i class="fab fa-github fa-lg"></i>
+        </span>
+    </a>
+</div>

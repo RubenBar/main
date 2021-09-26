@@ -1,3 +1,7 @@
+- name: Blog
+  link: /blog/
+- name: Projects
+  link: /projects/
 - name: Pages
   link: /#
   dropdown:
@@ -28,9 +32,6 @@
     - name: Image Gallery
       link: /gallery/
     - name: Recipe Page
-      link: /example-recipe/
-- name: Blog
-  link: /blog/
-- name: Projects
-  link: /projects/
+      link: /example-recipe/  
+  
   

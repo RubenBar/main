@@ -73,9 +73,10 @@ highlighter: rouge
 
 footer_menu: example_footer_menu
 
+#Collection: projects
 collections:
-  products: 
+  projects: 
     output: true
-    layout: product
+    layout: project
     image: https://via.placeholder.com/800x600
     show_sidebar: false

@@ -2,7 +2,6 @@
 title: Ruben Barcelo Armada
 subtitle: Computer Science Engineer. Building a career in Cybersecurity. 
 layout: page
-callouts: home_callouts
 hero_image: img/intro-bg.jpg
 show_sidebar: true
 ---
